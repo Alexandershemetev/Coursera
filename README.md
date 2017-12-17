@@ -6,7 +6,7 @@
   + Exploratory Data Analysis
   
 * [Statistics with R Specialization - Duke](https://www.coursera.org/specializations/statistics)
-  + [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro/)
+  + [Introduction to Probability and Data](Statistics with R Specialization - Duke/)
   + Inferential Statistics
   + Linear Regression and Modeling
   
